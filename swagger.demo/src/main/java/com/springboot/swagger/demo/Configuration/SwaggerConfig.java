@@ -42,7 +42,7 @@ public class SwaggerConfig {
 	/*If your project have spring security then add below in your security configuration*/
 //	private static final String[] AUTH_WHITELIST = {
 //	        "/swagger-resources/**",
-//	        "/swagger-ui/",
+//	        "/swagger-ui/**",
 //	        "/v2/api-docs",
 //	        "ui"
 //	};
